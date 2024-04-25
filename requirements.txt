@@ -1,0 +1,10 @@
+mysql-connector-python==8.0.27
+scrapy-rotating-proxies==0.6.2
+scrapy-user-agents==0.1.1
+selenium==3.141.0
+tqdm==4.64.1
+webdriver-manager==3.7.1
+2captcha-python==1.2.1
+ujson==4.3.0
+parsel==1.6.0
+pandas==1.1.5
